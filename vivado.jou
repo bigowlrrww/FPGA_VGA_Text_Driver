@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Nov 21 14:23:57 2019
+# Process ID: 18452
+# Current directory: D:/Vivado_Projects/VGA_Text_Driver
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14652 D:\Vivado_Projects\VGA_Text_Driver\VGA_Text_Driver.xpr
+# Log file: D:/Vivado_Projects/VGA_Text_Driver/vivado.log
+# Journal file: D:/Vivado_Projects/VGA_Text_Driver\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Vivado_Projects/VGA_Text_Driver/VGA_Text_Driver.xpr
+update_compile_order -fileset sources_1
